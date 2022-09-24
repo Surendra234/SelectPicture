@@ -1,0 +1,6 @@
+framework module Pods_SelectThePoster_SelectThePosterUITests {
+  umbrella header "Pods-SelectThePoster-SelectThePosterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
